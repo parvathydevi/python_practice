@@ -76,4 +76,6 @@ print(thisdict)
 for x in thisdict:
   print(x) 
 
+print (thisdict["brand"])
+
 
