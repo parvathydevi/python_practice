@@ -78,4 +78,6 @@ for x in thisdict:
 
 print (thisdict["brand"])
 
+print (thisdict["Mustang"])
+
 
