@@ -1,9 +1,9 @@
 
-#fin_calc
+# fin_calc
 
 Project created for doing basic calculation for saving account 
 
-##Work items
+## Work items
 
 ### Add option to give names
 ### Add option to add money each saving category
